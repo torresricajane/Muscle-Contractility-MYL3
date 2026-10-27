@@ -1,0 +1,35 @@
+The preassigned ClinVar record for Variation ID 181444 was accessed at https://www.ncbi.nlm.nih.gov/clinvar/variation/181444/ to review clinical data, classifications, and molecular details:
+
+Variant Name: NM_000258.3(MYL3):c.447G>T (p.Met149Ile)
+
+Variation ID: 181444 (Accession: VCV000181444.3)
+
+Transcript Accession: NM_000258.3 (MANE Select)
+
+Matching Protein Accession: NP_000249.1
+
+HGVS Nucleotide Change: c.447G>T
+
+HGVS Protein Change: p.Met149Ile (or M149I)
+
+Variant Type: Single nucleotide variant (1 bp) / Missense
+
+Cytogenetic Location: 3p21.31
+
+Genomic Location (GRCh38): chr3: 46859509 (NC_000003.12:g.46859509C>A)
+
+Aggregate Classification: Likely pathogenic
+
+Review Status: 2 gold stars (2 out of 4 star criteria provided, multiple submitters, no conflicts)
+
+Submissions: 3 out of 3 submissions contributed to this classification
+
+Timeline: First submitted May 29, 2016; Last evaluated May 21, 2024; Last submission September 22, 2026
+
+Date Accessed: October 27, 2026
+
+Sequence Change & Molecular Mechanism Explanation:
+
+Sequence Change Mechanism: This is a missense mutation caused by a single nucleotide substitution (G to T) at coding position 447 (c.447G>T) in the NM_000258.3 transcript. This changes codon 149 from ATG (Methionine) to ATT (Isoleucine).
+
+Protein Level Effect: At the protein level (NP_000249.1), residue 149 changes from methionine to isoleucine (p.Met149Ile). Because MYL3 encodes the ventricular essential light chain of cardiac myosin, altering this residue can disrupt the stability of the myosin neck region, affecting muscle contraction and force generation in the heart.
