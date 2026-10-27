@@ -55,13 +55,13 @@ ClinVar Variation ID 181444 was inspected at the linked NCBI ClinVar record. The
 The assigned variant was kept fixed throughout the analysis. 
 
 Step 6. Produce a second biological visualization
-The second figure marks residue 149 on the 195-amino-acid reference protein (p.Met149Ile). The figure was saved as figures/02_variant_position.png. Additionally, a structural domain mapping figure (protein_structure_or_splice_diagram.png) was generated using the canva app to display the EF-hand lever-arm region, it was based on the .
+The second figure marks residue 149 on the 195-amino-acid reference protein (p.Met149Ile). The figure was saved as figures/02_variant_position.png. Additionally, a structural domain mapping figure (protein_structure_and_mapping.png) was generated using the canva app to display the EF-hand lever-arm region, it was based on the NCBI Graphics and clivar.
 
 <img width="1054" height="366" alt="image" src="https://github.com/user-attachments/assets/686c2ead-0ffd-4fb8-9375-790204a90ac3" />
 
-This marker shows where the *p.Met149Ile* substitution occurs on the *MYL3* reference sequence, but it does not prove any structural or functional changes on its own.
+ This marker shows where the *p.Met149Ile* substitution occurs on the *MYL3* reference sequence, but it does not prove any structural or functional changes on its own.
 
----
+
 
 ## (d) Results & Figures
 
@@ -75,15 +75,15 @@ Affected Position: Residue 149
 
 <img width="2400" height="1500" alt="01_amino_acid_composition" src="https://github.com/user-attachments/assets/e00687fb-630d-4391-99c5-a8f0a416679e" />
 
-  This bar chart shows the count of each of the 20 standard amino acids across the 195-residue *MYL3* protein, highlighting which building blocks are most common in the structure.
+  *Figure 1.* This bar chart shows the count of each of the 20 standard amino acids across the 195-residue *MYL3* protein, highlighting which building blocks are most common in the structure.
 
 <img width="2400" height="750" alt="02_variant_position" src="https://github.com/user-attachments/assets/4a43ac74-6349-4672-8893-db628ab5582c" />
 
-   This linear map marks the exact location of the *p.Met149Ile* substitution at position 149 along the length of the reference protein.
+  *Figure 2.*  This linear map marks the exact location of the *p.Met149Ile* substitution at position 149 along the length of the reference protein.
   
 <img width="1024" height="768" alt="protein_structure_and_mapping" src="https://github.com/user-attachments/assets/acc83a30-47ef-4b82-be8f-44f42ec9f5b5" />
 
-   This diagram shows that residue 149 is located within the conserved EF-hand domain / myosin lever-arm region, which plays a key role in stabilizing the myosin heavy chain during muscle contraction.
+ *Figure 3.*   This diagram shows that residue 149 is located within the conserved EF-hand domain / myosin lever-arm region, which plays a key role in stabilizing the myosin heavy chain during muscle contraction.
 
 ## (e) Discussion: Variant  interpretation Effects, Clinical Association, and Predictions
 
