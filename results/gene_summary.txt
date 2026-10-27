@@ -1,0 +1,4 @@
+Gene symbol: MYL3
+NCBI Gene ID: 4634
+Official name: myosin light chain 3
+Chromosome: 3
