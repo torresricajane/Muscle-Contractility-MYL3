@@ -55,13 +55,11 @@ ClinVar Variation ID 181444 was inspected at the linked NCBI ClinVar record. The
 The assigned variant was kept fixed throughout the analysis. 
 
 Step 6. Produce a second biological visualization
-The second figure marks residue 149 on the 195-amino-acid reference protein (p.Met149Ile). The figure was saved as figures/02_variant_position.png. Additionally, a structural domain mapping figure (protein_structure_and_mapping.png) was generated using the canva app to display the EF-hand lever-arm region, it was based on the NCBI Graphics and clivar.
+The second figure marks residue 149 on the 195-amino-acid reference protein (p.Met149Ile). The figure was saved as figures/02_variant_position.png. Additionally, a structural domain mapping figure (protein_structure_and_mapping.png) was created manually using Canva since standard R sequence scripts only provide flat text outputs and basic linear plots (figures/01_amino_acid_composition.png and figures/02_variant_position.png). By combining my R script results (such as protein length and sequence coordinates) with data from NCBI Nucleotides, sequence graphics, and ClinVar, I was able to build a clear visual layout. This manual figure successfully highlights the exact location of my variant within the functional EF-hand lever-arm domain, providing a much clearer biological context for how the mutation affects protein structure.
 
 <img width="1054" height="366" alt="image" src="https://github.com/user-attachments/assets/686c2ead-0ffd-4fb8-9375-790204a90ac3" />
 
  This marker shows where the *p.Met149Ile* substitution occurs on the *MYL3* reference sequence, but it does not prove any structural or functional changes on its own.
-
-
 
 ## (d) Results & Figures
 
@@ -85,7 +83,7 @@ Affected Position: Residue 149
 
  *Figure 3.*   This diagram shows that residue 149 is located within the conserved EF-hand domain / myosin lever-arm region, which plays a key role in stabilizing the myosin heavy chain during muscle contraction.
 
-## (e) Discussion: Variant  interpretation Effects, Clinical Association, and Predictions
+## (e) Discussion: Variant  interpretation
 
 The p.Met149Ile variant in MYL3 is classified in ClinVar as Likely Pathogenic (Variation ID: 181444), supported by multiple clinical submissions and familial segregation studies linked to hypertrophic cardiomyopathy (HCM). Residue 149 lies within the highly conserved heavy-chain binding and structural core of the myosin essential light chain. Substituting methionine with isoleucine alters local hydrophobicity and steric packing, impairing structural stability at the myosin neck region and disrupting normal cross-bridge cycling dynamics during muscle contraction.
 
